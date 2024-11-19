@@ -1,6 +1,0 @@
-# Ignore virtual environment directories
-.venv/
-
-#Ignore `.mypy_cache/`
-.mypy_cache/
-
