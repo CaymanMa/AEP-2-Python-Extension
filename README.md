@@ -24,3 +24,10 @@ pip uninstall pandas
 Running main.py shouldn't pose any issues so long as Python 3.x is installed
 
 # Usage
+Running the file will prompt you with
+```bash
+Stock:
+```
+This is where you input the symbol of the stock you want to get a view of, say NVDA.
+
+Then it will ask you if you want to change the dates. The default dates are the dates used in the original exploration of the document.
