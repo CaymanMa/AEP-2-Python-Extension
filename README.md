@@ -5,7 +5,7 @@
 - Python 3.x
 - yfinance for scraping the data
 - pandas for converting the data in a easily viewable file
-- Something to view .csv files, there are easily accessible websites for this.
+- Something to view .csv files, there are easily accessible websites for this
 
 ## Steps for easy installation
 This isn't a complex respository, you can simply download main.py and install the requirements via pip using
