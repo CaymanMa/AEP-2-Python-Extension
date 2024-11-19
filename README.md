@@ -1,5 +1,5 @@
 # AEP-2-Python-Extension
-
+A small project containing a bit of a larger leap into exploring derivatives of functions. Know that using this project will create a .csv file in the directory it is ran in.
 # Installation
 ## Prerequisites
 - Python 3.x
@@ -22,3 +22,5 @@ pip uninstall pandas
 ```
 
 Running main.py shouldn't pose any issues so long as Python 3.x is installed
+
+# Usage
